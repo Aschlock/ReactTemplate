@@ -1,3 +1,5 @@
+Как это было сделано:
+
 npm install --save-dev --save-exact react react-dom
 
 npm install --save-dev --save-exact @babel/core @babel/preset-env @babel/preset-react babel-loader
